@@ -1,7 +1,5 @@
 # PML Final Project Repository
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem_B.ipynb)
-
 ## Overview
 
 This repository contains the code and data for the PML Final Project by Elizaveta Ignatova, Nicola Bertoni and Giovanni Lombardi.
@@ -21,7 +19,12 @@ You can run the notebooks directly on Google Colab without any local setup.
 
 ### **Open in Colab**
 
-Click the **"Open In Colab"** badges above to open the notebooks in Google Colab.
+Click the **"Open In Colab"** badges below to open the notebooks in Google Colab.
+
+| Exercise |             | Open in Colab |
+|----------|-------------|----------------|
+| **Problem B** |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem_B.ipynb) |
+
 
 ### **Manual Access**
 
