@@ -21,9 +21,9 @@ You can run the notebooks directly on Google Colab without any local setup.
 
 Click the **"Open In Colab"** badges below to open the notebooks in Google Colab.
 
-| Exercise |             | Open in Colab |
-|----------|-------------|----------------|
-| **Problem B** |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem_B.ipynb) |
+| Exercise | Open in Colab |
+|----------|----------|
+| **Problem B** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem_B.ipynb) |
 
 
 ### **Manual Access**
