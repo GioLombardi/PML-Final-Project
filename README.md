@@ -1,6 +1,6 @@
 # PML Final Project Repository
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem B.ipynb)
 
 ## Overview
 
