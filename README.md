@@ -34,7 +34,7 @@ Click the **"Open In Colab"** badges below to open the notebooks in Google Colab
 
 ## Notes
 
-- **Execution Environment:** All code was developed and executed using Google Colab, leveraging its computational resources and ease of sharing.
+- **Execution Environment:** All code was developed and executed using Google Colab.
 
 - **Dependencies:** The necessary Python packages are installed directly within the notebooks using `pip`. Ensure that you run all cells in the notebooks to install any required dependencies before executing the main code.
 
