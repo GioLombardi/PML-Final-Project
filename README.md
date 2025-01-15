@@ -1,7 +1,5 @@
 # PML Final Project Repository
 
-## Overview
-
 This repository contains the code and data for the PML Final Project by Elizaveta Ignatova, Nicola Bertoni and Giovanni Lombardi.
 
 ## Project Structure
@@ -33,10 +31,6 @@ Click the **"Open In Colab"** badges below to open the notebooks in Google Colab
 3. Select the **"GitHub"** tab.
 4. Enter the repository URL: `https://github.com/GioLombardi/PML-Final-Project`.
 5. Choose the notebook you wish to open and click **"Open"**.
-
-## Data Files
-
-- **Pickle Files:** Located in the `data/` directory.
 
 ## Notes
 
