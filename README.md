@@ -9,7 +9,7 @@ This repository contains the code and data for the PML Final Project by Elizavet
 - **`notebooks/`**
   - Contains all Jupyter Notebook files with solutions to the exercises.
 - **`data/`**
-  - Stores pickle files necessary for running the notebooks.
+  - Stores pickle and .pth files files that cointain the models' trained parameters.
 - **`README.md`**
   - Provides an overview, instructions, and important information about the repository.
 
