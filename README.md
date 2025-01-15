@@ -21,6 +21,7 @@ Click the **"Open In Colab"** badges below to open the notebooks in Google Colab
 
 | Exercise | Open in Colab |
 |----------|----------|
+| **Problem A1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/A1.ipynb) |
 | **Problem B** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem_B.ipynb) |
 
 
