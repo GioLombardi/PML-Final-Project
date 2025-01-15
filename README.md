@@ -1,6 +1,6 @@
 # PML Final Project Repository
 
-This repository contains the code and data for the PML Final Project by Elizaveta Ignatova, Nicola Bertoni and Giovanni Lombardi.
+This repository contains the code and data for the PML Final Project by Elizaveta Ignatova, Nicola Bertoni and Giovanni Lombardi (Group 04).
 
 ## Project Structure
 
