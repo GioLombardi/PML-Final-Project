@@ -19,10 +19,21 @@ You can run the notebooks directly on Google Colab without any local setup.
 
 Click the **"Open In Colab"** badges below to open the notebooks in Google Colab.
 
-| Exercise | Open in Colab |
+| Notebook | Description | Open in Colab |
 |----------|----------|
-| **Problem A1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/A1.ipynb) |
-| **Problem B** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem_B.ipynb) |
+| **A_Bertoni** 
+| Contains our solution to the first two bullet points of Problem A.1 as well as comparison of corresponding models (i.e., part of Problem A.2). 
+To this file, Bertoni contributed for the 80% and Lombardi for the 20%
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/A_Bertoni.ipynb) 
+|
+| **A_Ignatova** 
+| Contains Ignatova's contributions: solutions to the last two bullet points of Problem A.1 as well es comparison of the corresponding models (i.e., part of Problem A.2)
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/A_Ignatova.ipynb) 
+| 
+| **Problem_B** 
+| Contains our solution to Problem B; to this file, Lombardi contributed for the 80% and Bertoni for the 20%
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GioLombardi/PML-Final-Project/blob/main/notebooks/Problem_B.ipynb) 
+|
 
 
 ### **Manual Access**
