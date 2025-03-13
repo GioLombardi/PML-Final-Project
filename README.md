@@ -11,7 +11,7 @@ This repository contains the code and data for the PML Final Project by Elizavet
 - **`README.md`**
   - Provides an overview, instructions, and important information about the repository.
 - **`project_report.pdf`**
-  - Contains a detailed description of the project, including results and conclusions. [Download the PDF](https://github.com/GioLombardi/PML-Final-Project/blob/main/project_report.pdf)
+  - Contains a detailed description of the project, including results and conclusions.
 
 ## Running the Notebooks
 
