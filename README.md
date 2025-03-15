@@ -16,7 +16,7 @@ This project explores **diffusion-based generative models** and **function fitti
    - Compared MAP estimation vs. Bayesian sampling (NUTS) for parameter inference.  
    - Analyzed how enforcing an integral constraint affects model predictions.
 
-The full report, including implementation details and results, is available in `docs/project_report.pdf`.
+The full report is available in `docs/project_report.pdf`.
 
 ## Repository Structure
 
