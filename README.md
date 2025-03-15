@@ -2,16 +2,28 @@
 
 This repository contains the code and data for the PML Final Project by Elizaveta Ignatova, Nicola Bertoni and Giovanni Lombardi (Group 04).
 
-## Project Structure
+## Project Overview
 
-- **`notebooks/`**
-  - Contains all Jupyter Notebook files with solutions to the exercises.
-- **`data/`**
-  - Stores pickle and .pth files containing the trained parameters of the models and other stored variables.
-- **`README.md`**
-  - Provides an overview, instructions, and important information about the repository.
-- **`project_report.pdf`**
-  - Contains a detailed description of the project, including results and conclusions.
+This project explores **diffusion-based generative models** and **function fitting with constraints**, focusing on two key problems:
+
+1. **Diffusion-Based Generative Models**  
+   - Implemented and analyzed variations of a Denoising Diffusion Probabilistic Model (DDPM) on MNIST.  
+   - Explored alternative loss estimations, continuous-time diffusion models (SDEs), and conditional image generation.  
+   - Evaluated model performance using Inception Score (IS), Fréchet Inception Distance (FID), and likelihood estimation.
+
+2. **Function Fitting with Constraints**  
+   - Developed Gaussian Process (GP) models with and without integral constraints.  
+   - Compared MAP estimation vs. Bayesian sampling (NUTS) for parameter inference.  
+   - Analyzed how enforcing an integral constraint affects model predictions.
+
+The full report, including implementation details and results, is available in `docs/project_report.pdf`.
+
+## Repository Structure
+
+- **`notebooks/`** – Jupyter notebooks with solutions to Problems A and B.
+- **`data/`** – Pre-trained models and other stored variables in `.pth` and `.pkl` format.
+- **`docs/`** – Contains the **final project report** and additional documentation.
+- **`README.md`** – Instructions and overview of the repository.
 
 ## Running the Notebooks
 
